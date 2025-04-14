@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@tanstack/react-table": "^8.21.2",
+    "africastalking": "^0.7.3",
+    "qrcode.react": "^4.2.0"
+  }
+}
